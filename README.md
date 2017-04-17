@@ -70,11 +70,11 @@ have to provide the compiler option `-std=c++14` or higher as well.
 
 Here's a small usage example:
 ~~~{.cpp}
-#include <tue/mat.hpp>
-#include <tue/quat.hpp>
-#include <tue/simd.hpp>
-#include <tue/transform.hpp>
-#include <tue/vec.hpp>
+# include <tue/mat.hpp>
+# include <tue/quat.hpp>
+# include <tue/simd.hpp>
+# include <tue/transform.hpp>
+# include <tue/vec.hpp>
 
 using namespace tue;
 
